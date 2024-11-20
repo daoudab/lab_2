@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Lab2A</string>
+    <string name="love_android">J\'aime Android</string>
+    <string name="press_me">Appuyez ici</string>
+    <string name="check_this">Vérifiez ceci!</string>
+    <string name="switch_text">Allumer/éteindre</string>
+    <string name="toast_message">L\'étiquette a été mise à jour</string>
+    <string name="checkbox_status">La case à cocher est maintenant %s</string>
+    <string name="on">activée</string>
+    <string name="off" tools:ignore="ExtraTranslation">désactivée</string>
+    <string name="undo">Annuler</string>
+    <string name="flag_description">Drapeau du pays</string>
+</resources>

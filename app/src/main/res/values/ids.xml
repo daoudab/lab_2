@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id">textView</item>
+    <item name="editText" type="id">editText</item>
+    <item name="button" type="id">press me</item>
+    <item name="checkBox" type="id">check this out</item>
+    <item name="imageButton" type="id">press me</item>
+    <item name="switchToggle" type="id">switch</item>
+</resources>
